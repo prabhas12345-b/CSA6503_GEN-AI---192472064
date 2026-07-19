@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+
+subjects = ["Python", "Java", "C", "C++"]
+marks = [90, 85, 80, 88]
+
+plt.bar(subjects, marks)
+plt.title("Bar Chart")
+plt.show()
