@@ -1,0 +1,13 @@
+Generative AI is a branch of artificial intelligence that creates new content such as text, images, audio and code.
+
+Large Language Models are AI models trained on large amounts of text data.
+
+Retrieval-Augmented Generation combines information retrieval with language generation.
+
+Embeddings convert text into numerical vectors.
+
+Vector databases store embeddings and perform similarity search.
+
+LangChain is a framework used to develop applications with language models.
+
+ChromaDB is a vector database used to store and retrieve embeddings.

@@ -1,0 +1,6 @@
+from pypdf import PdfReader
+def load_pdf(path):
+der PdfReadez (path)
+return "\n".join(page.extract_text() for page
+in reader.pages)
+text= load_pdf("curriculum_cse.pdf") print(f"Loaded {len(text)} characters")
