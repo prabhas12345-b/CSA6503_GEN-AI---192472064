@@ -1,0 +1,35 @@
+ENGINEERING TROUBLESHOOTING GUIDE
+
+PROBLEM: Computer does not turn on
+
+Step 1: Check whether the power cable is connected properly.
+Step 2: Check the wall power supply.
+Step 3: Check whether the power switch is turned on.
+Step 4: Check the computer power indicator.
+Step 5: If the computer still does not turn on, contact technical support.
+
+PROBLEM: Computer is overheating
+
+Step 1: Check whether the cooling fan is working.
+Step 2: Make sure the air vents are not blocked.
+Step 3: Clean dust from the cooling system.
+Step 4: Ensure that the computer has proper ventilation.
+Step 5: If overheating continues, contact technical support.
+
+PROBLEM: Network connection is not working
+
+Step 1: Check whether the network cable is connected.
+Step 2: Check the Wi-Fi connection if wireless networking is used.
+Step 3: Restart the network device.
+Step 4: Check the network adapter settings.
+Step 5: Test the connection using another device.
+Step 6: Contact the network administrator if the problem continues.
+
+PROBLEM: Application is running slowly
+
+Step 1: Check CPU and memory usage.
+Step 2: Close unnecessary applications.
+Step 3: Check available storage space.
+Step 4: Restart the application.
+Step 5: Restart the computer if necessary.
+Step 6: Contact technical support if the problem continues.

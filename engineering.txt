@@ -1,0 +1,24 @@
+ENGINEERING AI LAB REFERENCE
+
+Artificial Intelligence is a branch of computer science that
+develops systems capable of performing tasks that normally
+require human intelligence.
+
+Machine learning is a subset of artificial intelligence.
+It enables computers to learn patterns from data.
+
+Deep learning uses neural networks with multiple layers.
+It is commonly used for image recognition, speech recognition
+and natural language processing.
+
+A GPU can accelerate machine learning and deep learning
+operations because it can perform many mathematical
+calculations in parallel.
+
+Python is widely used in artificial intelligence because it
+provides libraries such as NumPy, Pandas, Scikit-learn,
+PyTorch and TensorFlow.
+
+Retrieval-Augmented Generation combines document retrieval
+with language generation. Relevant information is retrieved
+from a knowledge base before generating an answer.
